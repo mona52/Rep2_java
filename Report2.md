@@ -7,8 +7,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-1. валидацию не прошли валидные номера кредитных карт, имеющих длину 19 символов (карты платежных систем VISA, Discover, JCB); ссылка на описание дефекта: [https://github.com/mona52/Rep2_java/issues/1#issue-784571280](url)
-1. валидацию не прошли номера кредитных карт платежных систем American Express (AMEX), Diners Club - Carte Blanche, Diners Club - International; ссылка на описание дефекта: [https://github.com/mona52/Rep2_java/issues/2#issue-784583004](url)
+1. [https://github.com/mona52/Rep2_java/issues/1#issue-784571280](url)
+1. [https://github.com/mona52/Rep2_java/issues/2#issue-784583004](url)
 
 
 ## **Описание процесса тестирования**
