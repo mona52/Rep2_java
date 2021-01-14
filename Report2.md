@@ -7,8 +7,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-1. [https://github.com/mona52/Rep2_java/issues/1#issue-784571280](url)
-1. [https://github.com/mona52/Rep2_java/issues/2#issue-784583004](url)
+1. Номера кредитных карт длиной 19 символов не прошли валидацию: https://github.com/mona52/Rep2_java/issues/1#issue-784571280
+1. Номера кредитных карт платежных системы American Express (AMEX), Diners Club-Carte Blanche, Diners Club-International не прошли валидацию: https://github.com/mona52/Rep2_java/issues/2#issue-784583004
 
 
 ## **Описание процесса тестирования**
